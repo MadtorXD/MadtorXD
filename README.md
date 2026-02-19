@@ -43,10 +43,10 @@
 ```yaml
 Name:          Harsh Vardhan Tripathi
 Location:      India 🇮🇳
-Education:     B.Tech (IT) — Gautam Buddha University (8.7 / 10)
+Education:     B.Tech (IT) — Gautam Buddha University
 Current Focus: Building production-grade GenAI apps & AI agents
 Open To:       SDE · AI/ML · Product-Tech · Data Engineering
-Philosophy:    "Ship fast · learn faster · never stop building"
+Philosophy:    "Ship fast · Learn Faster · Never Stop Building"
 ```
 
 ---
@@ -131,6 +131,8 @@ Philosophy:    "Ship fast · learn faster · never stop building"
 </td>
 </tr>
 </table>
+
+---
 
 <!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
@@ -294,7 +296,7 @@ Philosophy:    "Ship fast · learn faster · never stop building"
 
 ```
 🧠  Deep-diving into Generative AI — building agents, RAG pipelines & real-time AI apps
-⚡  Shipping production-ready projects every month that solve real problems
+⚡  Trying to ship production-ready projects every month that solve real problems
 🎯  Open to SDE · AI/ML · Product-Tech · Data Engineering roles
 📬  Let's connect → hvtcodes@yahoo.com | linkedin.com/in/hvtdpt
 ```
