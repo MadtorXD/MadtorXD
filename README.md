@@ -249,15 +249,15 @@ Philosophy:    "Ship fast · learn faster · never stop building"
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api?username=MadtorXD&show_icons=true&bg_color=0d1117&border_color=21262d&icon_color=3fb950&title_color=58a6ff&text_color=8b949e&border_radius=8&count_private=true&include_all_commits=true&ring_color=58a6ff" /><img width="4" /><img width="48%" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api/top-langs/?username=MadtorXD&layout=compact&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=8b949e&border_radius=8&langs_count=8" />
+<img width="48%" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api?username=MadtorXD&show_icons=true&bg_color=0d1117&border_color=21262d&icon_color=3fb950&title_color=58a6ff&text_color=8b949e&border_radius=8&count_private=true&include_all_commits=true&ring_color=58a6ff&card_width=495&hide_rank=true" /><img width="4" /><img width="48%" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api/top-langs/?username=MadtorXD&layout=compact&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=8b949e&border_radius=8&langs_count=8&card_width=495" />
 
 <br/>
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=MadtorXD&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58&border_radius=8" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MadtorXD&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58&border_radius=8" />
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MadtorXD&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&area=true&area_color=21262d&border_color=21262d&border_radius=8" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MadtorXD&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&area=true&area_color=21262d&border_color=21262d&border_radius=8" />
 
 </div>
 
