@@ -19,7 +19,7 @@
 <!-- ═══════════════════ TYPING SVG ═══════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=750&height=45&lines=Turning+AI+ideas+into+real-world+products+and+meaningful+user+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=900&height=45&lines=Turning+AI+ideas+into+real-world+products+and+meaningful+user+experiences" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -48,16 +48,13 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> &nbsp;About Me
 
-```js
-const harsh = {
-    name:        "Harsh Vardhan Tripathi",
-    location:    "India 🇮🇳",
-    education:   "B.Tech (IT) — Gautam Buddha University (8.7 / 10)",
-    focus:       "Building production-grade GenAI apps & AI agents",
-    community:   "Social Media & Design Lead @ GDSC GBU",
-    openTo:      ["SDE", "AI/ML", "Product-Tech", "Data Engineering"],
-    philosophy:  "ship fast · learn faster · never stop building",
-};
+```yaml
+Name:          Harsh Vardhan Tripathi
+Location:      India 🇮🇳
+Education:     B.Tech (IT) — Gautam Buddha University (8.7 / 10)
+Current Focus: Building production-grade GenAI apps & AI agents
+Open To:       SDE · AI/ML · Product-Tech · Data Engineering
+Philosophy:    "Ship fast · learn faster · never stop building"
 ```
 
 ---
