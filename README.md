@@ -249,7 +249,7 @@ Philosophy:    "Ship fast · learn faster · never stop building"
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api?username=MadtorXD&show_icons=true&bg_color=0d1117&border_color=21262d&icon_color=3fb950&title_color=58a6ff&text_color=8b949e&border_radius=8&count_private=true&include_all_commits=true&ring_color=58a6ff&card_width=495" /><img width="4" /><img width="48%" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api/top-langs/?username=MadtorXD&layout=compact&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=8b949e&border_radius=8&langs_count=8&card_width=495" />
+<table><tr><td width="50%"><img width="100%" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api?username=MadtorXD&show_icons=true&bg_color=0d1117&border_color=21262d&icon_color=3fb950&title_color=58a6ff&text_color=8b949e&border_radius=8&count_private=true&include_all_commits=true&ring_color=58a6ff&hide_rank=true" /></td><td width="50%"><img width="100%" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api/top-langs/?username=MadtorXD&layout=compact&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=8b949e&border_radius=8&langs_count=8" /></td></tr></table>
 
 <br/>
 
