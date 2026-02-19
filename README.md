@@ -27,13 +27,13 @@
 <!-- ═══════════════════ SOCIAL BADGES ═══════════════════ -->
 
 <a href="https://www.linkedin.com/in/hvtdpt/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 <a href="mailto:hvtcodes@yahoo.com">
-  <img src="https://img.shields.io/badge/Yahoo_Mail-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzU4YTZmZiI+PHBhdGggZD0iTTAgNi40NGwzLjgzLS4wMmMuODkgMCAxLjc1LjAxIDEuODMuMDEuMSAwIC4xNi4wOS4yNy40LjE4LjQ4LjYzIDEuOS42MyAxLjlsMS44OCA1LjE2IDIuOTktNy40NkgxNS41bC01LjM0IDExLjczLS4wMS4wMWMtLjQ4IDEuMDYtLjc3IDEuNzMtMS4wNSAyLjA3LS40Ny41Ni0xIC44Ny0xLjc4IDEuMDYtLjQ5LjEyLS45NS4xNi0xLjQ2LjE0bC0uNjUtLjAyLjIxLTMuMmMuMjYuMDEuNiAwIC44My0uMDMuMzUtLjA1LjU2LS4yMi43Ni0uNjIuMS0uMi4xOS0uNTEuMDYtLjg4bC0uMDEtLjAyTDIuNzggNi40N2MtLjAxLS4wMy0uMDEtLjA0LjAxLS4wNGgtLjAyTDAgNi40NHptMTQuNzQtLjAybDMuMS4wMSAyLjM5IDYuMzFMMjIuODMgNi40MiAyNCA2LjQybC0zLjggMTAuMTYtLjAxLjAxYy0uMzcuODEtLjYgMS4zMS0uODIgMS41OC0uMzYuNDMtLjc3LjY3LTEuMzguODEtLjM4LjA5LS43My4xMi0xLjEzLjFsLS41MS0uMDEuMTctMi40M2MuMiAwIC40NiAwIC42NS0uMDMuMjctLjA0LjQzLS4xNi41OS0uNDcuMDgtLjE2LjE1LS4zOS4wNC0uNjdsLS4wMS0uMDItMi45OS04Ljk5LS4wMS0uMDJjLS4wMS0uMDItLjAxLS4wMyAwLS4wM2gtLjAybC0xLjA3LjAxeiIvPjwvc3ZnPg==&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Yahoo_Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/MadtorXD">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
