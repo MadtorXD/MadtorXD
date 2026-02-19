@@ -30,7 +30,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MadtorXD&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=MadtorXD&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -131,32 +131,6 @@ Philosophy:    "Ship fast · learn faster · never stop building"
 </td>
 </tr>
 </table>
-
----
-
-<!-- ═══════════════════ EXPERIENCE ═══════════════════ -->
-
-### 💼 Experience
-
-```
-  ╭───────────────────────────────────────────────────────────────╮
-  │  🏢  Software Developer Intern — Botsfusion Software         │
-  │      June 2024 → August 2024                                 │
-  │                                                               │
-  │  • Built reusable React chatbot widget with code splitting    │
-  │  • Created dashboards tracking system performance & defects   │
-  │  • SQL + Python analysis → ~30% fewer recurring prod issues   │
-  ╰───────────────────────────────────────────────────────────────╯
-  ╭───────────────────────────────────────────────────────────────╮
-  │  🎯  Social Media & Design Lead — GDSC, GBU                  │
-  │                                                               │
-  │  • Grew community: 0 → 1,000+ followers in 3 months          │
-  │  • Tracked engagement metrics & campaign performance          │
-  │  • Coordinated cross-team content workflows                   │
-  ╰───────────────────────────────────────────────────────────────╯
-```
-
----
 
 <!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
