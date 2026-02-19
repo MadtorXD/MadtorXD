@@ -28,10 +28,10 @@
 
 <a href="https://www.linkedin.com/in/hvtdpt/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
+</a>
 <a href="mailto:hvtcodes@yahoo.com">
   <img src="https://img.shields.io/badge/Yahoo_Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" />
-</a>&nbsp;
+</a>
 <a href="https://github.com/MadtorXD">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
