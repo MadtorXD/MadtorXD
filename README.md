@@ -139,24 +139,24 @@ Philosophy:    "Ship fast · learn faster · never stop building"
 <div align="center">
 
 <a href="https://github.com/MadtorXD/podcastr">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MadtorXD&repo=podcastr&bg_color=0d1117&border_color=21262d&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&border_radius=8" />
+  <img width="400" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api/pin/?username=MadtorXD&repo=podcastr&bg_color=0d1117&border_color=21262d&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&border_radius=8" />
 </a>&nbsp;
 <a href="https://github.com/MadtorXD/BrainMate-AI">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MadtorXD&repo=BrainMate-AI&bg_color=0d1117&border_color=21262d&icon_color=3fb950&title_color=3fb950&text_color=8b949e&border_radius=8" />
+  <img width="400" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api/pin/?username=MadtorXD&repo=BrainMate-AI&bg_color=0d1117&border_color=21262d&icon_color=3fb950&title_color=3fb950&text_color=8b949e&border_radius=8" />
 </a>
 
 <a href="https://github.com/MadtorXD/ResearchMate-AI">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MadtorXD&repo=ResearchMate-AI&bg_color=0d1117&border_color=21262d&icon_color=f78166&title_color=f78166&text_color=8b949e&border_radius=8" />
+  <img width="400" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api/pin/?username=MadtorXD&repo=ResearchMate-AI&bg_color=0d1117&border_color=21262d&icon_color=f78166&title_color=f78166&text_color=8b949e&border_radius=8" />
 </a>&nbsp;
 <a href="https://github.com/MadtorXD/TaskOrbit">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MadtorXD&repo=TaskOrbit&bg_color=0d1117&border_color=21262d&icon_color=d2a8ff&title_color=d2a8ff&text_color=8b949e&border_radius=8" />
+  <img width="400" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api/pin/?username=MadtorXD&repo=TaskOrbit&bg_color=0d1117&border_color=21262d&icon_color=d2a8ff&title_color=d2a8ff&text_color=8b949e&border_radius=8" />
 </a>
 
 <a href="https://github.com/MadtorXD/VisualTalk-Junior">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MadtorXD&repo=VisualTalk-Junior&bg_color=0d1117&border_color=21262d&icon_color=79c0ff&title_color=79c0ff&text_color=8b949e&border_radius=8" />
+  <img width="400" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api/pin/?username=MadtorXD&repo=VisualTalk-Junior&bg_color=0d1117&border_color=21262d&icon_color=79c0ff&title_color=79c0ff&text_color=8b949e&border_radius=8" />
 </a>&nbsp;
 <a href="https://github.com/MadtorXD/playto-community-feed">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MadtorXD&repo=playto-community-feed&bg_color=0d1117&border_color=21262d&icon_color=7ee787&title_color=7ee787&text_color=8b949e&border_radius=8" />
+  <img width="400" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api/pin/?username=MadtorXD&repo=playto-community-feed&bg_color=0d1117&border_color=21262d&icon_color=7ee787&title_color=7ee787&text_color=8b949e&border_radius=8" />
 </a>
 
 </div>
@@ -264,9 +264,9 @@ Philosophy:    "Ship fast · learn faster · never stop building"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MadtorXD&show_icons=true&bg_color=0d1117&border_color=21262d&icon_color=3fb950&title_color=58a6ff&text_color=8b949e&border_radius=8&count_private=true&include_all_commits=true&ring_color=58a6ff" />
+<img width="49%" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api?username=MadtorXD&show_icons=true&bg_color=0d1117&border_color=21262d&icon_color=3fb950&title_color=58a6ff&text_color=8b949e&border_radius=8&count_private=true&include_all_commits=true&ring_color=58a6ff" />
 &nbsp;
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadtorXD&layout=compact&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=8b949e&border_radius=8&langs_count=8" />
+<img width="49%" src="https://github-readme-stats-alpha-rosy-50.vercel.app/api/top-langs/?username=MadtorXD&layout=compact&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=8b949e&border_radius=8&langs_count=8" />
 
 <br/><br/>
 
