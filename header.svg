@@ -49,8 +49,8 @@
   <circle cx="60" cy="20" r="5" fill="#3fb950" class="d3"/>
 
   <!-- Tab bar -->
-  <rect x="80" y="10" width="160" height="20" rx="4" fill="#21262d" opacity="0.8"/>
-  <text x="100" y="24" fill="#8b949e" font-family="monospace" font-size="11">harsh@github:~</text>
+  <rect x="80" y="10" width="180" height="20" rx="4" fill="#21262d" opacity="0.8"/>
+  <text x="100" y="24" fill="#8b949e" font-family="monospace" font-size="11">github.com/MadtorXD</text>
 
   <!-- Main content -->
   <text class="title" x="40" y="80" fill="#e6edf3" font-family="'Segoe UI', system-ui, sans-serif" font-size="28" font-weight="700">
@@ -59,20 +59,21 @@
 
   <!-- Subtitle with gradient -->
   <text class="sub" x="40" y="110" fill="#8b949e" font-family="'Segoe UI', system-ui, sans-serif" font-size="14">
-    Software Developer  •  AI + Full Stack  •  Building What Matters
+    Software Developer  •  Full Stack + AI  •  Building What Matters
   </text>
 
   <!-- Terminal prompt -->
   <g class="prompt">
-    <text x="40" y="150" fill="#3fb950" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="13">❯</text>
-    <text x="58" y="150" fill="#58a6ff" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="13">cat</text>
-    <text x="88" y="150" fill="#e6edf3" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="13">skills.json</text>
-    <rect class="cursor" x="188" y="138" width="8" height="16" fill="#58a6ff"/>
+    <text x="40" y="150" fill="#3fb950" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="13">🧑‍💻</text>
+    <text x="68" y="150" fill="#e6edf3" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="13">Engineer by day</text>
+    <text x="250" y="150" fill="#f78166" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="13">🕹️</text>
+    <text x="275" y="150" fill="#e6edf3" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="13">Gamer by night</text>
+    <rect class="cursor" x="405" y="138" width="8" height="16" fill="#58a6ff"/>
   </g>
 
   <!-- Status bar -->
   <rect x="0" y="180" width="800" height="20" rx="0" fill="#161b22"/>
   <text x="20" y="194" fill="#3fb950" font-family="monospace" font-size="10">● connected</text>
-  <text x="350" y="194" fill="#8b949e" font-family="monospace" font-size="10">main ✦ 7 projects</text>
+  <text x="350" y="194" fill="#8b949e" font-family="monospace" font-size="10">main ✦ building cool stuff</text>
   <text x="680" y="194" fill="#8b949e" font-family="monospace" font-size="10">UTF-8  LF</text>
 </svg>

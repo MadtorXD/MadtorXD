@@ -1,104 +1,143 @@
 <!-- 
      ╭──────────────────────────────────────────────────────╮
      │  github.com/MadtorXD                                │
-     │  designed to feel native to GitHub's dark mode       │
-     │  every section is a "file" in a code editor          │
+     │  GitHub's native dark mode palette                   │
+     │  #0d1117 · #58a6ff · #3fb950 · #f78166              │
      ╰──────────────────────────────────────────────────────╯
 -->
 
 <div align="center">
 
-<!-- ANIMATED HEADER — code editor style SVG -->
+<!-- ═══════════════════ ANIMATED HEADER SVG ═══════════════════ -->
+
 <a href="https://github.com/MadtorXD">
-  <img src="header.svg" width="100%" alt="Harsh Vardhan Tripathi — Software Developer · AI + Full Stack" />
+  <img src="header.svg" width="100%" alt="Harsh Vardhan Tripathi — Software Developer · Full Stack + AI" />
 </a>
 
 <br/>
 
-<!-- TYPING — GitHub-themed colors -->
+<!-- ═══════════════════ TYPING SVG ═══════════════════ -->
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=50&lines=%24+cat+about.md+%7C+head+-n+1;Building+AI+systems+that+solve+real+problems+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=750&height=45&lines=Turning+AI+ideas+into+real-world+products+and+meaningful+user+experiences" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SOCIAL — minimal, monochrome GitHub style -->
-[![LinkedIn](https://img.shields.io/badge/hvtdpt-0d1117?style=flat&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/hvtdpt/)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/hvtcodes-0d1117?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzU4YTZmZiI+PHBhdGggZD0iTTAgNi40NGwzLjgzLS4wMmMuODkgMCAxLjc1LjAxIDEuODMuMDEuMSAwIC4xNi4wOS4yNy40LjE4LjQ4LjYzIDEuOS42MyAxLjlsMS44OCA1LjE2IDIuOTktNy40NkgxNS41bC01LjM0IDExLjczLS4wMS4wMWMtLjQ4IDEuMDYtLjc3IDEuNzMtMS4wNSAyLjA3LS40Ny41Ni0xIC44Ny0xLjc4IDEuMDYtLjQ5LjEyLS45NS4xNi0xLjQ2LjE0bC0uNjUtLjAyLjIxLTMuMmMuMjYuMDEuNiAwIC44My0uMDMuMzUtLjA1LjU2LS4yMi43Ni0uNjIuMS0uMi4xOS0uNTEuMDYtLjg4bC0uMDEtLjAyTDIuNzggNi40N2MtLjAxLS4wMy0uMDEtLjA0LjAxLS4wNGgtLjAyTDAgNi40NHptMTQuNzQtLjAybDMuMS4wMSAyLjM5IDYuMzFMMjIuODMgNi40MiAyNCA2LjQybC0zLjggMTAuMTYtLjAxLjAxYy0uMzcuODEtLjYgMS4zMS0uODIgMS41OC0uMzYuNDMtLjc3LjY3LTEuMzguODEtLjM4LjA5LS43My4xMi0xLjEzLjFsLS41MS0uMDEuMTctMi40M2MuMiAwIC40NiAwIC42NS0uMDMuMjctLjA0LjQzLS4xNi41OS0uNDcuMDgtLjE2LjE1LS4zOS4wNC0uNjdsLS4wMS0uMDItMi45OS04Ljk5LS4wMS0uMDJjLS4wMS0uMDItLjAxLS4wMyAwLS4wM2gtLjAybC0xLjA3LjAxeiIvPjwvc3ZnPg==&logoColor=58a6ff)](mailto:hvtcodes@yahoo.com)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/MadtorXD-0d1117?style=flat&logo=github&logoColor=58a6ff)](https://github.com/MadtorXD)&nbsp;&nbsp;
-![Views](https://komarev.com/ghpvc/?username=MadtorXD&style=flat&color=0d1117&label=visitors)
+<!-- ═══════════════════ SOCIAL BADGES ═══════════════════ -->
+
+<a href="https://www.linkedin.com/in/hvtdpt/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
+</a>&nbsp;
+<a href="mailto:hvtcodes@yahoo.com">
+  <img src="https://img.shields.io/badge/Yahoo_Mail-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzU4YTZmZiI+PHBhdGggZD0iTTAgNi40NGwzLjgzLS4wMmMuODkgMCAxLjc1LjAxIDEuODMuMDEuMSAwIC4xNi4wOS4yNy40LjE4LjQ4LjYzIDEuOS42MyAxLjlsMS44OCA1LjE2IDIuOTktNy40NkgxNS41bC01LjM0IDExLjczLS4wMS4wMWMtLjQ4IDEuMDYtLjc3IDEuNzMtMS4wNSAyLjA3LS40Ny41Ni0xIC44Ny0xLjc4IDEuMDYtLjQ5LjEyLS45NS4xNi0xLjQ2LjE0bC0uNjUtLjAyLjIxLTMuMmMuMjYuMDEuNiAwIC44My0uMDMuMzUtLjA1LjU2LS4yMi43Ni0uNjIuMS0uMi4xOS0uNTEuMDYtLjg4bC0uMDEtLjAyTDIuNzggNi40N2MtLjAxLS4wMy0uMDEtLjA0LjAxLS4wNGgtLjAyTDAgNi40NHptMTQuNzQtLjAybDMuMS4wMSAyLjM5IDYuMzFMMjIuODMgNi40MiAyNCA2LjQybC0zLjggMTAuMTYtLjAxLjAxYy0uMzcuODEtLjYgMS4zMS0uODIgMS41OC0uMzYuNDMtLjc3LjY3LTEuMzguODEtLjM4LjA5LS43My4xMi0xLjEzLjFsLS41MS0uMDEuMTctMi40M2MuMiAwIC40NiAwIC42NS0uMDMuMjctLjA0LjQzLS4xNi41OS0uNDcuMDgtLjE2LjE1LS4zOS4wNC0uNjdsLS4wMS0uMDItMi45OS04Ljk5LS4wMS0uMDJjLS4wMS0uMDItLjAxLS4wMyAwLS4wM2gtLjAybC0xLjA3LjAxeiIvPjwvc3ZnPg==&logoColor=58a6ff" />
+</a>&nbsp;
+<a href="https://github.com/MadtorXD">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MadtorXD&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-<!-- ══════════════════════ ABOUT — neofetch style ══════════════════════ -->
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> &nbsp;About Me
 
 ```js
-// about.js — who am I?
-
 const harsh = {
-    pronouns:    "he/him",
-    education:   "B.Tech (IT) → Gautam Buddha University — 8.7 CGPA",
-    experience:  "SDE Intern @ Botsfusion Software",
-    community:   "Social Media Lead @ GDSC GBU",
-    seeking:     ["SDE", "AI/ML", "Product-Tech", "Data Engineering"],
+    name:        "Harsh Vardhan Tripathi",
+    location:    "India 🇮🇳",
+    education:   "B.Tech (IT) — Gautam Buddha University (8.7 / 10)",
+    focus:       "Building production-grade GenAI apps & AI agents",
+    community:   "Social Media & Design Lead @ GDSC GBU",
+    openTo:      ["SDE", "AI/ML", "Product-Tech", "Data Engineering"],
     philosophy:  "ship fast · learn faster · never stop building",
 };
 ```
 
-<!-- ══════════════════════ WHAT I BUILD — 4 pillars ══════════════════════ -->
+---
 
-### `> what_i_build.sh`
+<!-- ═══════════════════ TECH ARSENAL ═══════════════════ -->
+
+### 🧰 Tech Arsenal
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td align="center" width="140"><b>🔤 Languages</b></td>
+<td>
 
-```
-   🤖
-  AI/ML
-```
-
-LLM apps
-RAG pipelines
-AI agents
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 
 </td>
-<td width="25%" align="center">
+</tr>
+<tr>
+<td align="center" width="140"><b>⚛️ Frontend</b></td>
+<td>
 
-```
-   🌐
-Full Stack
-```
-
-React · Next.js
-FastAPI · Django
-Spring Boot
-
-</td>
-<td width="25%" align="center">
-
-```
-   📊
-  Data
-```
-
-SQL · Python
-Power BI
-Analytics
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
+![Framer](https://img.shields.io/badge/Motion-0d1117?style=flat-square&logo=framer&logoColor=0055FF)
+![Shadcn](https://img.shields.io/badge/Shadcn-0d1117?style=flat-square&logo=shadcnui&logoColor=e6edf3)
 
 </td>
-<td width="25%" align="center">
+</tr>
+<tr>
+<td align="center" width="140"><b>🔧 Backend</b></td>
+<td>
 
-```
-   🚀
-Product
-```
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Spring](https://img.shields.io/badge/Spring-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B)
+![Convex](https://img.shields.io/badge/Convex-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2VlMzQyZiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=ee342f)
 
-User-first design
-Performance tuning
-End-to-end delivery
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>🤖 AI / GenAI</b></td>
+<td>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=e6edf3)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C)
+![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=8E75B2)
+![Groq](https://img.shields.io/badge/Groq-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2Y1NTAzNiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=f55036)
+![HuggingFace](https://img.shields.io/badge/🤗_HF-0d1117?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>📊 Data</b></td>
+<td>
+
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![PowerBI](https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+![Excel](https://img.shields.io/badge/Excel-0d1117?style=flat-square&logo=microsoftexcel&logoColor=217346)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>🛠️ DevTools</b></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=e6edf3)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=e6edf3)
+![Clerk](https://img.shields.io/badge/Clerk-0d1117?style=flat-square&logo=clerk&logoColor=6C47FF)
 
 </td>
 </tr>
@@ -106,93 +145,33 @@ End-to-end delivery
 
 ---
 
-<!-- ══════════════════════ TECH — compact grid ══════════════════════ -->
+<!-- ═══════════════════ EXPERIENCE ═══════════════════ -->
 
-### `> cat tech_stack.toml`
-
-<table>
-<tr><td>
-
-**Languages** &nbsp; `>>>` &nbsp;
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JS-0d1117?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TS-0d1117?style=flat&logo=typescript&logoColor=3178C6)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat&logo=mysql&logoColor=4479A1)
-
-</td></tr>
-<tr><td>
-
-**Frontend** &nbsp; `>>>` &nbsp;
-![React](https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat&logo=nextdotjs&logoColor=e6edf3)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat&logo=tailwind-css&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat&logo=vite&logoColor=646CFF)
-![Framer](https://img.shields.io/badge/Motion-0d1117?style=flat&logo=framer&logoColor=0055FF)
-
-</td></tr>
-<tr><td>
-
-**Backend** &nbsp; `>>>` &nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=009688)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat&logo=django&logoColor=44B78B)
-![Spring](https://img.shields.io/badge/Spring-0d1117?style=flat&logo=springboot&logoColor=6DB33F)
-![Node](https://img.shields.io/badge/Node-0d1117?style=flat&logo=nodedotjs&logoColor=339933)
-![Convex](https://img.shields.io/badge/Convex-0d1117?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2VlMzQyZiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=ee342f)
-
-</td></tr>
-<tr><td>
-
-**AI / GenAI** &nbsp; `>>>` &nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat&logo=openai&logoColor=e6edf3)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat&logo=langchain&logoColor=1C3C3C)
-![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat&logo=googlegemini&logoColor=8E75B2)
-![Groq](https://img.shields.io/badge/Groq-0d1117?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2Y1NTAzNiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=f55036)
-![HuggingFace](https://img.shields.io/badge/🤗_HF-0d1117?style=flat)
-
-</td></tr>
-<tr><td>
-
-**DevOps** &nbsp; `>>>` &nbsp;
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat&logo=vercel&logoColor=e6edf3)
-![Actions](https://img.shields.io/badge/Actions-0d1117?style=flat&logo=githubactions&logoColor=2088FF)
-
-</td></tr>
-</table>
-
----
-
-<!-- ══════════════════════ EXPERIENCE — git log style ══════════════════════ -->
-
-### `> git log --oneline --graph experience.md`
+### 💼 Experience
 
 ```
-* ──────────────────────────────────────────────────────────────────────
-│ 🏢  Software Developer Intern — Botsfusion Software Pvt Ltd
-│     June 2024 → August 2024
-│
-│     • Built reusable React chatbot widget — code splitting + asset optimization
-│     • Created internal dashboards tracking system performance & defects
-│     • SQL + Python analysis → identified bottlenecks in chatbot usage data
-│     • Result: ~30% reduction in recurring production issues
-│
-* ──────────────────────────────────────────────────────────────────────
-│ 🎯  Social Media & Design Lead — GDSC, GBU
-│
-│     • Grew community: 0 → 1,000+ followers in 3 months
-│     • Tracked engagement metrics & campaign performance
-│     • Coordinated cross-team content workflows
-│
-* ──────────────────────────────────────────────────────────────────────
+  ╭───────────────────────────────────────────────────────────────╮
+  │  🏢  Software Developer Intern — Botsfusion Software         │
+  │      June 2024 → August 2024                                 │
+  │                                                               │
+  │  • Built reusable React chatbot widget with code splitting    │
+  │  • Created dashboards tracking system performance & defects   │
+  │  • SQL + Python analysis → ~30% fewer recurring prod issues   │
+  ╰───────────────────────────────────────────────────────────────╯
+  ╭───────────────────────────────────────────────────────────────╮
+  │  🎯  Social Media & Design Lead — GDSC, GBU                  │
+  │                                                               │
+  │  • Grew community: 0 → 1,000+ followers in 3 months          │
+  │  • Tracked engagement metrics & campaign performance          │
+  │  • Coordinated cross-team content workflows                   │
+  ╰───────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-<!-- ══════════════════════ PROJECTS — pinned repos ══════════════════════ -->
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
-### `> ls -la ~/projects/`
+### 🏆 Featured Projects
 
 <div align="center">
 
@@ -203,138 +182,134 @@ End-to-end delivery
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MadtorXD&repo=BrainMate-AI&bg_color=0d1117&border_color=21262d&icon_color=3fb950&title_color=3fb950&text_color=8b949e&border_radius=8" />
 </a>
 
-<a href="https://github.com/MadtorXD/VisualTalk-Junior">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MadtorXD&repo=VisualTalk-Junior&bg_color=0d1117&border_color=21262d&icon_color=f78166&title_color=f78166&text_color=8b949e&border_radius=8" />
+<a href="https://github.com/MadtorXD/ResearchMate-AI">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MadtorXD&repo=ResearchMate-AI&bg_color=0d1117&border_color=21262d&icon_color=f78166&title_color=f78166&text_color=8b949e&border_radius=8" />
 </a>&nbsp;
 <a href="https://github.com/MadtorXD/TaskOrbit">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MadtorXD&repo=TaskOrbit&bg_color=0d1117&border_color=21262d&icon_color=d2a8ff&title_color=d2a8ff&text_color=8b949e&border_radius=8" />
 </a>
 
-<a href="https://github.com/MadtorXD/playto-community-feed">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MadtorXD&repo=playto-community-feed&bg_color=0d1117&border_color=21262d&icon_color=79c0ff&title_color=79c0ff&text_color=8b949e&border_radius=8" />
+<a href="https://github.com/MadtorXD/VisualTalk-Junior">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MadtorXD&repo=VisualTalk-Junior&bg_color=0d1117&border_color=21262d&icon_color=79c0ff&title_color=79c0ff&text_color=8b949e&border_radius=8" />
 </a>&nbsp;
-<a href="https://github.com/MadtorXD/ResearchMate-AI">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MadtorXD&repo=ResearchMate-AI&bg_color=0d1117&border_color=21262d&icon_color=7ee787&title_color=7ee787&text_color=8b949e&border_radius=8" />
+<a href="https://github.com/MadtorXD/playto-community-feed">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MadtorXD&repo=playto-community-feed&bg_color=0d1117&border_color=21262d&icon_color=7ee787&title_color=7ee787&text_color=8b949e&border_radius=8" />
 </a>
 
 </div>
 
 ---
 
-<!-- ══════════════════════ PROJECT DEEP DIVES ══════════════════════ -->
+<!-- ═══════════════════ PROJECT DEEP DIVES ═══════════════════ -->
 
-### `> cat projects/*.md`
+### 🎯 Projects Deep-Dive
 
 <details>
-<summary>🤖 <code>podcastr/</code> — AI SaaS Podcast Platform <sub><sup>Next.js 14 · Convex · OpenAI · Clerk</sup></sub></summary>
+<summary><b>🤖 Podcastr — AI SaaS Podcast Platform</b> &nbsp;<a href="https://podcastr-mini.vercel.app/">Live ↗</a></summary>
 <br/>
 
-```
-├── OpenAI TTS integration ──── 6 voice models for text-to-podcast generation
-├── DALL-E 3 thumbnails ─────── AI-generated cover art from natural language prompts
-├── Clerk auth ──────────────── Secure sessions, protected API routes
-├── Persistent audio player ─── Seek, volume, mute — persists across navigation
-├── Discovery engine ────────── Search + filter by voice type + trending surfacing
-└── Convex backend ──────────── Real-time sync, serverless functions
-```
+> **Tech:** `Next.js 14` `TypeScript` `Convex` `OpenAI TTS` `DALL-E 3` `Clerk` `Tailwind CSS` `Shadcn UI`
 
+- Engineered AI-driven SaaS enabling text-to-podcast generation with **6 voice models** via OpenAI TTS API
+- Integrated **DALL-E 3** for dynamic thumbnail generation from natural language prompts
+- Implemented **Clerk-based authentication** with secure session management and protected API routes
+- Built a **fixed-position audio player** with seek, volume, mute — persists across page navigation
+- Designed a **real-time discovery engine** with search, filtering by voice type, and trending surfacing
+- Deployed on **Convex** for real-time backend with automatic data sync and serverless functions
 </details>
 
 <details>
-<summary>🧠 <code>brainmate-ai/</code> — Mental Health Conversational Agent <sub><sup>FastAPI · LangChain · LangGraph</sup></sub></summary>
+<summary><b>🧠 BrainMate AI — Mental Health Conversational Agent</b></summary>
 <br/>
 
-```
-├── Multi-turn AI system ────── LangChain with structured response evaluation
-├── State-graph workflows ───── LangGraph managing context + therapeutic patterns
-├── Data pipelines ──────────── Real-time performance & latency monitoring
-└── Quality metrics ─────────── Reliability tracking + efficiency benchmarking
-```
+> **Tech:** `Python` `FastAPI` `Streamlit` `LangChain` `LangGraph`
 
+- Built a multi-turn **AI conversational system** using LangChain with structured evaluation of response quality
+- Architected a **state-graph workflow** with LangGraph for managing conversation context and therapeutic patterns
+- Developed real-time **data processing pipelines** to monitor system performance, response latency, and session metrics
+- Implemented **response quality metrics** for reliability tracking and workflow efficiency benchmarking
 </details>
 
 <details>
-<summary>🎈 <code>visualtalk-junior/</code> — Child AI Voice Companion <sub><sup>React · Groq Llama 3.3 70B · Web Speech API</sup></sub></summary>
+<summary><b>📄 ResearchMate AI — Autonomous Research Paper Synthesizer</b></summary>
 <br/>
 
-```
-├── Voice interaction ───────── Web Speech API — ultra-low latency recognition
-├── Groq LPU inference ──────── Sub-second responses via Llama 3.3 70B
-├── Pedagogical scaffolding ─── Hook → Context → Prompt → Gentle Correction
-└── Age-appropriate persona ─── 5-7 word sentences for 3-5 year olds
-```
+> **Tech:** `Python` `arXiv API` `PyPDF2` `Streamlit`
 
+- Designed an **autonomous AI agent** that browses, reads, and synthesizes papers into publication-ready output
+- Implemented **keyword-based ranking and semantic filtering** achieving ~90% retrieval accuracy
+- Built PDF extraction pipelines using PyPDF2 for processing large volumes of research documents at scale
+- Automated end-to-end summarization workflows, **reducing manual research effort by ~80%**
 </details>
 
 <details>
-<summary>📄 <code>researchmate-ai/</code> — Autonomous Research Paper Synthesizer <sub><sup>Python · arXiv API · PyPDF2</sup></sub></summary>
+<summary><b>🎈 VisualTalk Junior — Child AI Voice Companion</b> &nbsp;<a href="https://visual-talk-junior.vercel.app">Live ↗</a></summary>
 <br/>
 
-```
-├── Autonomous agent ────────── Browses, reads, synthesizes papers end-to-end
-├── Smart retrieval ─────────── Keyword ranking + semantic filtering — ~90% accuracy
-├── PDF extraction ──────────── PyPDF2 pipelines for large-scale processing
-└── Auto-summarization ──────── Reduced manual research effort by ~80%
-```
+> **Tech:** `React` `Groq (Llama 3.3 70B)` `Web Speech API` `Tailwind CSS` `Framer Motion`
 
+- Built a **real-time voice interaction system** using Web Speech API for ultra-low latency speech recognition
+- Integrated **Groq LPU inference** (Llama 3.3 70B) for sub-second AI responses faster than human reactivity
+- Implemented **pedagogical scaffolding** — Hook → Contextualization → Prompt → Gentle Correction
+- Designed a lexile-appropriate AI persona with **5-7 word sentence constraints** for age 3-5 interaction
 </details>
 
 <details>
-<summary>🚀 <code>taskorbit/</code> — Kanban Board <a href="https://taskorbit-chi.vercel.app/"><sub><sup>LIVE ↗</sup></sub></a> <sub><sup>React 19 · Vite · @dnd-kit</sup></sub></summary>
+<summary><b>🚀 TaskOrbit — Kanban Task Board</b> &nbsp;<a href="https://taskorbit-chi.vercel.app/">Live ↗</a></summary>
 <br/>
 
-```
-├── 3-column Kanban ─────────── Full CRUD + drag-and-drop via @dnd-kit
-├── Smart search ────────────── Dropdown with color-coded status + priority badges
-├── Context API state ───────── Memoized derived state for filtering/sorting
-├── Error Boundary ──────────── Auto-recovery UI + storage cleanup
-└── 12 tests ────────────────── Vitest + React Testing Library
-```
+> **Tech:** `React 19` `Vite` `@dnd-kit` `Context API` `Vitest`
 
+- Engineered a **3-column Kanban board** with full CRUD, drag-and-drop (via @dnd-kit), and localStorage persistence
+- Built a **real-time search dropdown** with matching results, color-coded status dots, and priority badges
+- Implemented **centralized state management** via Context API with memoized derived state
+- Added an **Error Boundary** with automatic recovery UI and storage cleanup
+- **12 passing tests** using Vitest + React Testing Library covering auth, CRUD, and rendering
 </details>
 
 <details>
-<summary>💬 <code>playto-feed/</code> — Scalable Social Feed Engine <sub><sup>Django · React · PostgreSQL · Docker</sup></sub></summary>
+<summary><b>💬 Playto Community Feed — Scalable Social Feed Engine</b> &nbsp;<a href="https://playto-assignment.netlify.app/">Live ↗</a></summary>
 <br/>
 
-```
-├── N+1 solved ──────────────── O(1) in-memory adjacency-list tree reconstruction
-├── Karma leaderboard ───────── 24h rolling — split-and-merge aggregate queries
-├── Polymorphic voting ──────── GenericForeignKey + unique_together constraints
-└── Recursive UI ────────────── Unlimited nested comments without perf degradation
-```
+> **Tech:** `Django REST Framework` `React` `PostgreSQL` `Docker`
 
+- Solved the **N+1 query problem** for nested comments using O(1) in-memory adjacency-list tree reconstruction
+- Implemented a **24-hour rolling karma leaderboard** using split-and-merge aggregate queries
+- Built **polymorphic voting** via GenericForeignKey with idempotent API and `unique_together` constraints
+- Designed a recursive React UI handling **unlimited comment nesting** without performance degradation
 </details>
 
 <details>
-<summary>⚡ <code>energygrid/</code> — IoT Data Aggregator <sub><sup>Node.js · REST API · Batch Processing</sup></sub></summary>
+<summary><b>⚡ EnergyGrid — IoT Data Aggregator with Rate-Limit Handling</b></summary>
 <br/>
 
-```
-├── 500 IoT devices ─────────── Aggregation against rate-limited API (1 req/sec)
-├── Batch optimization ──────── Groups of 10 — reduced 500 calls → 50
-├── Rate-limit handling ─────── Exponential backoff retry on 429 errors
-└── Serial processing ──────── Deliberate delays to respect API limits
-```
+> **Tech:** `Node.js` `REST API` `Batch Processing`
 
+- Built a Node.js client aggregating data from **500 IoT devices** against a rate-limited API (1 req/sec)
+- Implemented **intelligent batching** (groups of 10) reducing total API calls from 500 → 50
+- Designed **exponential backoff retry logic** for automatic recovery from 429 responses
+- Serial processing with deliberate delays to respect API limits while maintaining data integrity
 </details>
 
 ---
 
-<!-- ══════════════════════ STATS — native GitHub colors ══════════════════════ -->
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
-### `> gh api stats`
+### 📊 GitHub Analytics
+
+<!-- ℹ️ These stats are DYNAMIC — they auto-update from GitHub's API every time someone views your profile -->
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MadtorXD&show_icons=true&bg_color=0d1117&border_color=21262d&icon_color=3fb950&title_color=58a6ff&text_color=8b949e&border_radius=8&count_private=true&include_all_commits=true&ring_color=58a6ff" />
+&nbsp;
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadtorXD&layout=compact&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=8b949e&border_radius=8&langs_count=8" />
 
-<br/>
+<br/><br/>
 
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MadtorXD&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58&border_radius=8" />
 
-<br/>
+<br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MadtorXD&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&area=true&area_color=21262d&border_color=21262d&border_radius=8" />
 
@@ -342,51 +317,66 @@ End-to-end delivery
 
 ---
 
-<!-- ══════════════════════ CERTIFICATIONS — inline ══════════════════════ -->
+<!-- ═══════════════════ CERTIFICATIONS ═══════════════════ -->
 
-### `> ls ~/certs/`
+### 📜 Certifications
 
-```
-📜 Programming Using Java ──── Infosys Springboard
-📜 Intro to Cybersecurity ──── Infosys Springboard
-```
-
-<sub>
-  <a href="https://drive.google.com/file/d/1zeHRxnGSB85wg6DaG_u67pI51XioSqAm/view?usp=drive_link">verify java cert →</a> &nbsp;|&nbsp; 
-  <a href="https://drive.google.com/file/d/1zLYunIjEjvm4ReSSewo86AsnW7WqRUFb/view?usp=drive_link">verify cybersec cert →</a>
-</sub>
+<table>
+<tr>
+<td align="center" width="80">
+<img src="https://img.shields.io/badge/Infosys-007DC5?style=flat-square&logoColor=white" />
+</td>
+<td>
+<a href="https://drive.google.com/file/d/1zeHRxnGSB85wg6DaG_u67pI51XioSqAm/view?usp=drive_link"><b>Programming Using Java</b></a> — Infosys Springboard
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+<img src="https://img.shields.io/badge/Infosys-007DC5?style=flat-square&logoColor=white" />
+</td>
+<td>
+<a href="https://drive.google.com/file/d/1zLYunIjEjvm4ReSSewo86AsnW7WqRUFb/view?usp=drive_link"><b>Introduction to Cybersecurity</b></a> — Infosys Springboard
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ══════════════════════ CONTRIBUTION SNAKE ══════════════════════ -->
+<!-- ═══════════════════ CURRENTLY ═══════════════════ -->
+
+### 🔭 Currently
+
+```
+🧠  Deep-diving into Generative AI — building agents, RAG pipelines & real-time AI apps
+⚡  Shipping production-ready projects every month that solve real problems
+🎯  Open to SDE · AI/ML · Product-Tech · Data Engineering roles
+📬  Let's connect → hvtcodes@yahoo.com | linkedin.com/in/hvtdpt
+```
+
+---
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
 ---
 
-<!-- ══════════════════════ FOOTER ══════════════════════ -->
+<!-- ═══════════════════ QUOTE ═══════════════════ -->
 
 <div align="center">
+  <img src="quote.svg" width="700" alt="Ideas are easy. Execution is everything." />
+</div>
 
-```
-  ╭──────────────────────────────────────────────────╮
-  │                                                  │
-  │   📬  hvtcodes@yahoo.com                         │
-  │   🔗  linkedin.com/in/hvtdpt                     │
-  │   💻  github.com/MadtorXD                        │
-  │                                                  │
-  │   "The best way to predict the future             │
-  │    is to build it." — Alan Kay                   │
-  │                                                  │
-  ╰──────────────────────────────────────────────────╯
-```
+---
 
-<sub>crafted with precision · every line intentional</sub>
+<!-- ═══════════════════ FOOTER SVG ═══════════════════ -->
 
+<div align="center">
+  <img src="footer.svg" width="100%" alt="Thanks for stopping by!" />
 </div>

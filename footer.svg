@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff"/>
+      <stop offset="50%" style="stop-color:#3fb950"/>
+      <stop offset="100%" style="stop-color:#f78166"/>
+    </linearGradient>
+    <!-- clip with only bottom corners rounded -->
+    <clipPath id="bottomRound">
+      <path d="M0,0 H800 V88 Q800,100 788,100 H12 Q0,100 0,88 Z"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    @keyframes pulse { 0%,100%{opacity:0.4} 50%{opacity:0.8} }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+    @keyframes scanline { 0%{transform:translateY(-100px)} 100%{transform:translateY(100px)} }
+    .pulse { animation: pulse 3s ease-in-out infinite; }
+    .cursor { animation: blink 1s infinite; }
+    .scan { animation: scanline 4s linear infinite; opacity: 0.03; }
+  </style>
+
+  <!-- Background — only bottom corners rounded -->
+  <path d="M0,0 H800 V88 Q800,100 788,100 H12 Q0,100 0,88 Z" fill="url(#bg)"/>
+
+  <!-- Glowing border — only bottom corners rounded -->
+  <path d="M0,1 H800 V88 Q800,99 788,99 H12 Q1,99 1,88 V1" fill="none" stroke="url(#glow)" stroke-width="1" class="pulse"/>
+
+  <!-- Scanline -->
+  <rect class="scan" x="0" y="0" width="800" height="4" fill="#58a6ff" clip-path="url(#bottomRound)"/>
+
+  <!-- Status bar at TOP (inverted from header) -->
+  <rect x="0" y="0" width="800" height="18" fill="#161b22"/>
+  <text x="20" y="13" fill="#3fb950" font-family="monospace" font-size="9">● session ended</text>
+  <text x="340" y="13" fill="#8b949e" font-family="monospace" font-size="9">exit code: 0 (success)</text>
+  <text x="680" y="13" fill="#8b949e" font-family="monospace" font-size="9">UTF-8  LF</text>
+
+  <!-- Terminal prompt -->
+  <text x="30" y="48" fill="#3fb950" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="12">❯</text>
+  <text x="48" y="48" fill="#58a6ff" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="12">echo</text>
+  <text x="93" y="48" fill="#e6edf3" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="12">"Thanks for stopping by!"</text>
+  <rect class="cursor" x="325" y="36" width="7" height="14" fill="#58a6ff"/>
+
+  <!-- Contact info -->
+  <text x="30" y="78" fill="#8b949e" font-family="monospace" font-size="10">📬 hvtcodes@yahoo.com</text>
+  <text x="260" y="78" fill="#8b949e" font-family="monospace" font-size="10">🔗 linkedin.com/in/hvtdpt</text>
+  <text x="500" y="78" fill="#8b949e" font-family="monospace" font-size="10">💻 github.com/MadtorXD</text>
+</svg>
