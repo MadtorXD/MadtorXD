@@ -80,7 +80,7 @@ Philosophy:    "Ship fast · learn faster · never stop building"
 <td>
 
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css&logoColor=1572B6)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
@@ -106,7 +106,7 @@ Philosophy:    "Ship fast · learn faster · never stop building"
 <td align="center" width="140"><b>🤖 AI / GenAI</b></td>
 <td>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=e6edf3)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=412991)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C)
 ![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=8E75B2)
 ![Groq](https://img.shields.io/badge/Groq-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2Y1NTAzNiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=f55036)
@@ -120,9 +120,9 @@ Philosophy:    "Ship fast · learn faster · never stop building"
 
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![PowerBI](https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811)
+![PowerBI](https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0YyQzgxMSI+PHBhdGggZD0iTTkuNSAzYTEuNSAxLjUgMCAwIDEgMS41IDEuNXYxNWExLjUgMS41IDAgMCAxLTMgMHYtMTVBMS41IDEuNSAwIDAgMSA5LjUgM3ptNSA0YTEuNSAxLjUgMCAwIDEgMS41IDEuNXYxMWExLjUgMS41IDAgMCAxLTMgMHYtMTFBMS41IDEuNSAwIDAgMSAxNC41IDd6bS0xMCA0YTEuNSAxLjUgMCAwIDEgMS41IDEuNXY3YTEuNSAxLjUgMCAwIDEtMyAwdi03QTEuNSAxLjUgMCAwIDEgNC41IDExeiIvPjwvc3ZnPg==&logoColor=F2C811)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=FF4B4B)
-![Excel](https://img.shields.io/badge/Excel-0d1117?style=flat-square&logo=microsoftexcel&logoColor=217346)
+![Excel](https://img.shields.io/badge/Excel-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzIxNzM0NiI+PHBhdGggZD0iTTIxIDRINi41TDE0IDEyIDYuNSAyMEgyMWEyIDIgMCAwIDAgMi0yVjZhMiAyIDAgMCAwLTItMnptLTUgMTJoLTJsLTIuNS00LTIuNSA0SDdsNC0ybC0zLjctNkgxMGwxLjUgMi45TDEzIDhoMi40bC0zLjcgNiA0IDZ6Ii8+PC9zdmc+&logoColor=217346)
 
 </td>
 </tr>
