@@ -255,7 +255,7 @@ Philosophy:    "Ship fast · Learn Faster · Never Stop Building"
 
 <br/>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MadtorXD&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58&border_radius=8" />
+<img width="60%" src="https://github-readme-streak-stats-seven-dun.vercel.app/?user=MadtorXD&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58&border_radius=8" />
 
 <br/>
 
