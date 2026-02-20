@@ -43,10 +43,10 @@
 ```yaml
 Name:          Harsh Vardhan Tripathi
 Location:      India 🇮🇳
-Education:     B.Tech (IT) — Gautam Buddha University
+Education:     B.Tech (IT) — Gautam Buddha University (8.7 / 10)
 Current Focus: Building production-grade GenAI apps & AI agents
 Open To:       SDE · AI/ML · Product-Tech · Data Engineering
-Philosophy:    "Ship fast · Learn Faster · Never Stop Building"
+Philosophy:    "Ship fast · learn faster · never stop building"
 ```
 
 ---
@@ -131,8 +131,6 @@ Philosophy:    "Ship fast · Learn Faster · Never Stop Building"
 </td>
 </tr>
 </table>
-
----
 
 <!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
@@ -255,7 +253,7 @@ Philosophy:    "Ship fast · Learn Faster · Never Stop Building"
 
 <br/>
 
-<img width="60%" src="https://github-readme-streak-stats-seven-dun.vercel.app/?user=MadtorXD&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58&border_radius=8" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MadtorXD&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58&border_radius=8" />
 
 <br/>
 
@@ -296,7 +294,7 @@ Philosophy:    "Ship fast · Learn Faster · Never Stop Building"
 
 ```
 🧠  Deep-diving into Generative AI — building agents, RAG pipelines & real-time AI apps
-⚡  Trying to ship production-ready projects every month that solve real problems
+⚡  Shipping production-ready projects every month that solve real problems
 🎯  Open to SDE · AI/ML · Product-Tech · Data Engineering roles
 📬  Let's connect → hvtcodes@yahoo.com | linkedin.com/in/hvtdpt
 ```
